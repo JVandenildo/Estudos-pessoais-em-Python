@@ -2,6 +2,10 @@
   
 Repository for Python algorithm/syntax testing.  
 
+## Summary
+
+1. [Websites of interest](## Websites of interest)
+
 ## Websites of interest
 
 - [python.org](https://www.python.org/);  
