@@ -5,4 +5,5 @@ def factorial(n):
         return n * factorial(n - 1)
 
 
-print(factorial(5))
+userNumber = int(input("Enter a number: "))
+print(factorial(userNumber))
