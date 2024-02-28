@@ -9,7 +9,8 @@ Repository for Python algorithm/syntax testing.
 
 ## Naming conventions for Python
 
-> [!info] > [PEP 8](https://peps.python.org/pep-0008) describes naming conventions and another similar stuff.
+> [!NOTE]
+> The [PEP 8](https://peps.python.org/pep-0008) describes naming conventions and another similar stuff.
 
 - Don't use single character "l", "I" or "O" as variable names;
 - **Modules** should use short, all-lowercase names with underscore to separate words;
