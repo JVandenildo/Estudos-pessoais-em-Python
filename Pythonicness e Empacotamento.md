@@ -70,7 +70,7 @@ Outras sugestões da PEP 8 incluem:
 - '`from module import *`' deveria ser evitado;
 - deveria haver apenas uma declaração por linha.
 
-É sugerido também usar espaços, ao invés do _tab_, para indentar. Contudo, em alguns casos, isso é questão de preferência pessoal. Se você usar espaços, somente 4 por linha. É mais importante escolher um e ficar até o final do programa.
+É sugerido também usar espaços, ao invés do _tab_, para recuar. Contudo, em alguns casos, isso é questão de preferência pessoal. Se você usar espaços, somente 4 por linha. É mais importante escolher um e ficar até o final do programa.
 O conselho mais importante na PEP é ignorá-la quando for necessário. Não se incomode com seguir sugestões da PEP quando causaria ao seu código ser menos legível; inconsistência com o código ao redor; ou sem compatibilidade com versões anteriores. Contudo, seguir a PEP 8 terá uma grande melhoria na qualidade do código.
 Algumas outras PEPs notáveis que cobrem estilo de código:
 
