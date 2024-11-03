@@ -2,6 +2,19 @@
 
 Repository for Python algorithm/syntax testing.
 
+## Bundle of small Python tips
+
+Two lines `# %%` may be used to run code snippet as a cell from Jupyter Notebook to test that code snippet. Example:
+
+```python
+# %%
+def sum(a, b):
+    return a+b
+
+print(sum(2,3))
+# %%
+```
+
 ## Websites of interest
 
 1. [python.org](https://www.python.org/);
