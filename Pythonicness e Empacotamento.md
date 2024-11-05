@@ -87,11 +87,11 @@ A biblioteca padrão do Python, contém uma funcionalidade extensiva. Contudo, a
 Enquanto o Python oferece módulos para acessar sites de forma programática, como o [urllib](http://docs.python.org/3/library/urllib.html), eles são um tanto pesados para usar. As solicitações de biblioteca de terceiros facilitam muito o uso de solicitações HTTP.
 Um número de módulos de terceiros estão disponíveis para computação científica e matemática usando o Python.
 
-- O módulo **matplotlib** permite criar grafos baseados em dados no Python;
+- O módulo **[matplotlib](https://matplotlib.org/)** permite criar grafos baseados em dados no Python;
 - O módulo **[Numpy](https://numpy.org/)** permite o uso de arrays multidimensionais que são mais rápidos que a solução nativa do Python de listas aninhadas. Também contém funções para performar operações matemáticas, como transformações de matrix em arrays.
 - A biblioteca **[SciPy](https://scipy.org/)** contém numerosas extensões para a funcionalidade do NumPy.
 
-Python pode ser usado para desenvolvimento de jogos. Normalmente, é usado como uma linguagem de script para jogos escritos em outras linguagens, mas pode ser usado para jogos em si. Para jogos 3D, a biblioteca **Panda3D** pode ser usada. Para jogos 2D, uma escolha é **pygame**.
+Python pode ser usado para desenvolvimento de jogos. Normalmente, é usado como uma linguagem de script para jogos escritos em outras linguagens, mas pode ser usado para jogos em si. Para jogos 3D, a biblioteca **[Panda3D](https://www.panda3d.org/)** pode ser usada. Para jogos 2D, uma escolha é **[pygame](https://www.pygame.org/docs/)**.
 Outros exemplos de bibliotecas de terceiros:
 
 1. [Pandas](https://pandas.pydata.org/);

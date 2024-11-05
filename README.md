@@ -20,7 +20,7 @@ print(sum(2, 3))
 ## Websites of interest
 
 1. [python.org](https://www.python.org/);
-2. [ipython.org](https://ipython.org/notebook.html);
+2. [jupyter.org/](https://jupyter.org/);
 3. Vídeo no YouTube intitulado "[The Story of Python, by Its Creator, Guido van Rossum](https://www.youtube.com/watch?v=J0Aq44Pze-w)" do canal [@oracledevs](https://www.youtube.com/@oracledevs);
 4. [peps (Python Enhancement Proposal)](https://peps.python.org/).
 5. Vídeo no YouTube intitulado "[Série temporal em dados financeiros](https://youtu.be/bBeitXfbjtU)" do canal [@IAExpertAcademy](https://www.youtube.com/@IAExpertAcademy);
