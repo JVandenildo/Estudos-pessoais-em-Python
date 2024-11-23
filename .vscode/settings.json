@@ -1,0 +1,33 @@
+{
+	"cSpell.words": [
+		"bdist",
+		"Codez",
+		"distutils",
+		"django",
+		"eyiwgtngia",
+		"Keras",
+		"Kivy",
+		"Mahotas",
+		"Numpy",
+		"oracledevs",
+		"pygame",
+		"Pythonicness",
+		"Rossum",
+		"Scikit",
+		"Scrapy",
+		"sdist",
+		"setuptools",
+		"Sliteris",
+		"spamspamspam",
+		"tensorflow",
+		"Theano",
+		"urllib",
+		"wininst"
+	],
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
