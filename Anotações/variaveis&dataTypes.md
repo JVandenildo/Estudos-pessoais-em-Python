@@ -10,11 +10,11 @@ O processo de converter o valor de um data type (integer, string, float, etc.) p
 
 ### Referências em artigos (variáveis e data types)
 
-- "[Variables in Python: Usage and Best Practices](https://realpython.com/python-variables/)" do site [Realpython](https://realpython.com/);
-- [W3Schools](https://www.w3schools.com/python/python_variables.asp);
-- W3Schools sobre [Data Types](https://www.w3schools.com/python/python_datatypes.asp);
-- [Artigo de introdução](https://thenewstack.io/python-for-beginners-data-types/) a Data Types;
-- "[Python Type Conversion](https://www.programiz.com/python-programming/type-conversion-and-casting)" do site [programiz](https://www.programiz.com/).
+- "[Variables in Python: Usage and Best Practices](https://realpython.com/python-variables/)" no site [Realpython](https://realpython.com/);
+- "[Python Variables](https://www.w3schools.com/python/python_variables.asp)" no site [w3schools.com/](https://www.w3schools.com/);
+- "[Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)" no site [w3schools.com/](https://www.w3schools.com/);
+- "[Python for Beginners: Data Types](https://thenewstack.io/python-for-beginners-data-types/)" no site [thenewstack.io/](https://thenewstack.io/);
+- "[Python Type Conversion](https://www.programiz.com/python-programming/type-conversion-and-casting)" no site [programiz.com/](https://www.programiz.com/).
 
 ### Referências em vídeos (variáveis e data types)
 

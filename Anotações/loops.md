@@ -6,9 +6,9 @@ Loops, também chamados de laços, são usados para executar um bloco de código
 
 ### Referências em artigos (loops)
 
-- [geeksforgeeks.org/loops-in-python/](https://www.geeksforgeeks.org/loops-in-python/);
-- [realpython.com/python-while-loop/](https://realpython.com/python-while-loop/);
-- [https://realpython.com/python-for-loop/#the-guts-of-the-python-for-loop](https://realpython.com/python-for-loop/#the-guts-of-the-python-for-loop).
+- "[Loops in Python – For, While and Nested Loops](https://www.geeksforgeeks.org/loops-in-python/)" no site [geeksforgeeks.org/](https://www.geeksforgeeks.org/);
+- "[Python 'while' Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/)" no site [realpython.com/](https://realpython.com/);
+- Seção "[The Guts of the Python for Loop](https://realpython.com/python-for-loop/#the-guts-of-the-python-for-loop)" no artigo "[Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/))" no site [realpython.com/](https://realpython.com/).
 
 ### Referências em vídeos (loops)
 
