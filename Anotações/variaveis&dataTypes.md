@@ -32,9 +32,40 @@ No exemplo acima, foram definidos variáveis atribuindo valores a seus nomes. Os
 - **Set**: um Set é uma coleção desordenada de data type que é iterável, mutável, e não possui elementos duplicados. A classe set do Python representa a noção matemática de um conjunto;
 - **Dicionário**: em Python, Dicionário é uma coleção ordenada (desde a versão 3.7) de valores, usados para armazenar os valores dos dados como um map, que, diferente de outros data types que armazenam somente um único valor como um elemento, Dicionários em Python armazenam pares chave:valor. Chave:valor é providenciado no dicionário para torná-lo mais otimizado.
 
-## Typecasting
+## Definindo e mudando o data type de uma variável
 
-O processo de converter o valor de um data type (integer, string, float, etc.) para outro data type é chamado de conversão de tipo. Python tem dois tipos de conversão: Implícita e Explícita.
+É importante considerar o data type da variável. Geralmente, quando se refere a um data type, está sendo referido a algum dos seguintes: string (texto), integer (número inteiro), floating-point number (número decimal), list (lista), tuple (tupla), dictionary (dicionário), objeto customizado.  
+Python é uma linguagem dinamicamente tipada, o que significa que o tipo da variável é determinado e verificado no tempo de execução (_runtime_) e não durante a compilação. Por causa disso, não é preciso especificar o tipo de uma variável quando ela está sendo criada. O Python irá inferir o tipo da variável pelo objeto atribuído. Exemplo:
+
+```python
+nome = "Fulano da Silva"
+idade = 18
+assuntos = ["Matemática", "Português", "Física", "Química"]
+
+type(nome)
+# a saída é <class 'str'>
+type(idade)
+# a saída é <class 'int'>
+type(assuntos)
+# a saída é <class 'list'>
+```
+
+No exemplo acima, a variável `nome` se refere ao valor `Fulano da Silva`, um valor do tipo `str`. Da mesma maneira, `age` se refere ao número inteiro `19`, um `int`. E a variável `assuntos` é do tipo `list`.  
+Por Python ser dinamicamente tipado, é possível reatribuir valores a variáveis de diferentes tipos dos valores que já possuem. Exemplo:
+
+```python
+idade = "18"
+type(idade)
+# a saída é <class 'str'>
+
+assuntos = {"Matemática", "Inglês", "Física", "Química"}
+type(assuntos)
+# a saída é <class 'set'>
+```
+
+### Typecasting
+
+O processo de converter o valor de um data type para outro data type é chamado de conversão de tipo. Python tem dois tipos de conversão: Implícita e Explícita.
 
 ## Referências
 
@@ -46,6 +77,7 @@ O processo de converter o valor de um data type (integer, string, float, etc.) p
 - "[Basic Data Types in Python: A Quick Exploration](https://realpython.com/python-data-types/)" no site [realpython.com/](https://realpython.com/);
 - "[Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)" no site [w3schools.com/](https://www.w3schools.com/);
 - "[Python for Beginners: Data Types](https://thenewstack.io/python-for-beginners-data-types/)" no site [thenewstack.io/](https://thenewstack.io/);
+- "[Operators and Expressions in Python](https://realpython.com/python-operators-expressions/)" no site [realpython.com/](https://realpython.com/);
 - "[Tuples vs Lists vs Sets in Python](https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/)" no site [jerrynsh.com/](https://jerrynsh.com/);
 - "[Python for Beginners: Lits](https://thenewstack.io/python-for-beginners-lists/)" no site [thenewstack.io/](https://thenewstack.io/);
 - "[Python for Beginners: When and How to Use Tuples](https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/)" no site [thenewstack.io/](thenewstack.io/);
