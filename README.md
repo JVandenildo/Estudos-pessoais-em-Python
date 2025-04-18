@@ -26,10 +26,10 @@ print(sum(2, 3))
 
 ### Referências de artigos
 
-1. "[Python (programming language)](<https://en.wikipedia.org/wiki/Python_(programming_language)>)" no site [en.wikipedia.org/](https://en.wikipedia.org/);
-2. "[How To Write Your First Python 3 Program](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)" no site [digitalocean.com/](https://www.digitalocean.com/);
-3. "[Aula de Python do Google](https://developers.google.com/edu/python)" no site [developers.google.com/](https://developers.google.com/);
-4. "[Python Tutorial](https://www.w3schools.com/python)" no site [w3schools.com/](https://222.w3schools.com/).
+1. "[Python (programming language)](<https://en.wikipedia.org/wiki/Python_(programming_language)>)" da [wikipedia](https://en.wikipedia.org/);
+2. "[How To Write Your First Python 3 Program](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)" da [digitalocean](https://www.digitalocean.com/);
+3. "[Aula de Python do Google](https://developers.google.com/edu/python)" do [developers google](https://developers.google.com/);
+4. "[Python Tutorial](https://www.w3schools.com/python)" da [w3schools](https://www.w3schools.com/).
 
 ### Referências de vídeos
 

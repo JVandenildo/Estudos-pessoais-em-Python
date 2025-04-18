@@ -11,12 +11,16 @@
 		"Keras",
 		"Kindson",
 		"Kivy",
+		"Librosa",
+		"lxml",
 		"Mahotas",
 		"nesoacademy",
 		"Numpy",
 		"oracledevs",
+		"plotly",
 		"pygame",
 		"Pythonicness",
+		"quantidadedegraduandos",
 		"Rossum",
 		"Scikit",
 		"Scrapy",
@@ -35,5 +39,6 @@
 	},
 	"[markdown]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	}
+	},
+	"editor.formatOnSave": true
 }
